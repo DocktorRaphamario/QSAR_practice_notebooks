@@ -7,14 +7,14 @@ Dataset Preparation:
 Collected and curated molecular structures in .sdf format.
 Standardized molecules using LigPrep and ensured correct protonation states.
 
-Descriptor Generation
+Descriptor Generation:
 Generated molecular descriptors automatically using AutoQSAR’s built-in algorithms.
 
-Model Training & Validation
+Model Training & Validation:
 Trained regression models through AutoQSAR.
 Evaluated performance based on R², Q², and RMSE metrics.
 
-Prediction & Interpretation
+Prediction & Interpretation:
 Predicted bioactivity (pIC₅₀) values for novel compounds.
 Identified top features influencing model performance.
 
